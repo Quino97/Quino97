@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Quino97
 - 👀 I’m interested in advanced manufacturing, engineering, integration of the physical and digital, coding as a problem solving skill and I love Arsenal
-- 🌱 I’m currently learning javascript (soon), I just finished a coures in html and css. I'm also finishing my Master's in Mechanical Engineering
+- 🌱 Soon to be learning javascript, I just finished a coures in html and css. I'm also finishing my Master's in Mechanical Engineering. Currently I am most comfortable with Java and Python and I really like MATLAB. I have a reasonable knowledge of relational databases and SQL.
 - 📫 How to reach me: quintindejongh@gmail.com
 
 <!---
